@@ -17,8 +17,7 @@ You can use the website to generate badges: https://shields.io/
   - Reading papers on ML/DL/AI
 
 - I’m looking to collaborate with other content creators
-- 2021/2022 Goals: Contribute more to Open Source projects
-- Fun fact: I am pursuing a degree in Computer Science Engineering! :construction_worker:
+
 <br />
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
