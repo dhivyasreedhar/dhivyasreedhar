@@ -11,17 +11,6 @@ You can use the website to generate badges: https://shields.io/
 
 ## I'm a Machine Learning/Deep Learning Enthusiast!
 
-- I’m currently working on building my knowledge in the field of Data Science!
-  - Learning Computer Vision, Natural Language Processing
-  - Learning how to deploy Machine Learning/Deep Learning Models
-  - Reading papers on ML/DL/AI
-
-- I’m looking to collaborate with other content creators
-
-<br />
-
-### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
-[![Spotify](https://open.spotify.com/user/nepuzlyce5o013ksybsccnlvh)](https://open.spotify.com/user/nepuzlyce5o013ksybsccnlvh)
 
 ### Languages and Tools:
 
