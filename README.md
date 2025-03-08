@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dhivyasreedhar@gmail.com)
 
-## I'm a Machine Learning/Deep Learning Enthusiast!
+
 
 
 ### Languages and Tools:
