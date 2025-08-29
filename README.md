@@ -1,44 +1,24 @@
-![ViewCount](https://views.whatilearened.today/views/github/dhivyasreedhar/dhivyasreedhar.svg?cache=remove)
-### Hi there, I'm Dhivya <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/dhivyasreedhar)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya-s-03b541168/)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dhivyasreedhar@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00CF00&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+Dhivya;)](https://git.io/typing-svg)
 
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=dhivya-sreedhar&color=00cf00)
+
+*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-08-07` <!-- TODO: automate this -->
+
+---
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🎓 2nd-year **Graduate Student** at **Carnegie Mellon University** 
+- 🧠 Researching **AI, NLP, and Large Language Model Reasoning**  
+- 💻 Former **Full-Stack Software Engineer** at [Zoho](https://www.zoho.com)  
+- 🐾 Fun fact: I love animals, hikes, coffee shops! 
 
 
-### Languages and Tools:
+---
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-    <img width="55%" align="right" alt="Dhivya's github stats" src="https://github-readme-stats.vercel.app/api?username=dhivyasreedhar&show_icons=true&hide_border=true"/>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivyasreedhar&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</p>
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+```yaml
+- Exploring reasoning and interpretability in Large Language Models (LLMs)
+- Building ML/NLP systems that can scale from research to production
+- Expanding my expertise in AI-driven applications
