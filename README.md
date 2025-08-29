@@ -9,7 +9,7 @@
 ---
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🎓 2nd-year **Graduate Student** at **Carnegie Mellon University** 
+- 🎓 **Graduate Student** at **Carnegie Mellon University** 
 - 🧠 Researching **AI, NLP, and Large Language Model Reasoning**  
 - 💻 Former **Full-Stack Software Engineer** at [Zoho](https://www.zoho.com)  
 - 🐾 Fun fact: I love animals, hikes, coffee shops! 
