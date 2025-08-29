@@ -22,3 +22,4 @@
 - Exploring reasoning and interpretability in Large Language Models (LLMs)
 - Building ML/NLP systems that can scale from research to production
 - Expanding my expertise in AI-driven applications
+- Being chaotic and contemplating all my life decisions
